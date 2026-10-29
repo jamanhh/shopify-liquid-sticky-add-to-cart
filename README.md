@@ -1,4 +1,4 @@
-How to add shopify-liquid-sticky-add-to-cart
+<b>How to add shopify-liquid-sticky-add-to-cart</b>
 
 Create a liquid file in Snippets and copy all the codes from Sticky-Add-To-Cart and paste
 
